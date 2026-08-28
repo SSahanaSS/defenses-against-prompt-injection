@@ -1,4 +1,4 @@
-# 🛡️ Prompt Injection Detector API
+# 🛡️ Prompt injection detection and defense
 
 A **FastAPI-based multimodal prompt-security pipeline** that extracts text from text/image/audio inputs, filters threats using a heuristic layer and DistilBERT, and forwards only safe prompts to Gemini for a response. 🤖🔐
 
